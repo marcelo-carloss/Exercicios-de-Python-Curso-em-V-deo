@@ -1,0 +1,12 @@
+Marcelo;22
+Brisa;21
+Maria;55
+Valdo;64
+Adria;34
+Pedro;17
+Ana;39
+Jos√©;70
+Kaka;25
+Marlene;35
+Jo„o;13
+;45
